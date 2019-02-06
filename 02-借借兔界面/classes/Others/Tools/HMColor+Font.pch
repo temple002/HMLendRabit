@@ -1,0 +1,22 @@
+//
+//  HMColor+Font.pch
+//  02-借借兔界面
+//
+//  Created by hm on 17/1/9.
+//  Copyright © 2017年 Temple. All rights reserved.
+//
+
+#ifndef HMColor_Font_pch
+#define HMColor_Font_pch
+
+#define themeColor [UIColor colorWithRed:55.0/255.0 green:156.0/255.0 blue:117.0/255.0 alpha:1.0]
+#define bgColor [UIColor colorWithRed:238/255.0 green:238/255.0 blue:238/255.0 alpha:1]
+
+#define usernameFont [UIFont boldSystemFontOfSize:14]
+#define lastTimeFont [UIFont systemFontOfSize:13]
+#define priceFont [UIFont systemFontOfSize:16]
+#define HeadFont [UIFont systemFontOfSize:16]
+#define titleFont [UIFont systemFontOfSize:14]
+#define brokenFont [UIFont systemFontOfSize:14]
+
+#endif
